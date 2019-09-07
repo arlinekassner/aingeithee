@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oguewaije.ceas.live/sitemap.xml
